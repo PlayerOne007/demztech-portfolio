@@ -34,7 +34,7 @@ export const About = () => {
                 <div className="glass rounded-xl p-8 border-white/10border hover:-translate-y-1 transition-all">
                 <p className="text-gray-300 mb-6">
                     I am a passionate DevOps Engineer with expertise in cloud platforms and automation.
-                    I also implements and delivers long-term maintainable solutions.
+                    I also implement and deliver long-term maintainable solutions.
                 </p>
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                     <div className="rounded-xl p-6 hover:-translate-y-1 transition-all">
