@@ -121,7 +121,7 @@ export const Projects = () => {
                     <p className="text-gray-300 mb-4">An Java based Barclays application.
                     </p>
                     <div>
-                        {["Java", "Spirng Boot", "AWS","Jenkins"].map((tech,key) => (
+                        {["Java", "Spring Boot", "AWS","Jenkins"].map((tech,key) => (
                             <span>
                                 <span
                                 key={key}
