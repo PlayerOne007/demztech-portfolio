@@ -220,7 +220,7 @@ export const Projects = () => {
 
               <div className="flex justify-between items-center">
             <a 
-            href="https://github.com/PlayerOne007/Simple_ai_agent" className="text-blue-400 hover:text-blue-300 transition-colors"
+            href="https://github.com/PlayerOne007/case_automation" className="text-blue-400 hover:text-blue-300 transition-colors"
             >
                 {""}
                 View Project</a>
