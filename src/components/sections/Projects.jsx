@@ -165,6 +165,75 @@ export const Projects = () => {
             <div className="p-6 rounded-xl border border-white/10 hover:translate-y-1 hover:border-blue-500/30 hover:shadow-[0_2px_8px_rgba(59, 130, 246, 0.1)] transition-all">
                     <h3 className="text-xl font-bold mb-2">{""}
                         {""}
+                        AI Agent  (Personal Project)</h3>{""}
+                    <p className="text-gray-300 mb-4">This project demonstrates a minimal, rule-based AI agent implemented in Python.
+                    </p>
+                    <div className="flex flex-wrap gap-2 mb-4">
+                        {["Java", "Spring Boot"].map((tech,key) => (
+                            <span>
+                                <span
+                                key={key}
+                                className="bg-blue-500/10 text-blue-500 py-1 px-3 rounded-full text-sm hover:bg-blue-500/20
+                                                   hover:shadow-[0,_2px_8px_rgba(59,130,2246,0.2)] tranistion
+                                
+                                "
+                                >
+                                    {tech}
+                                </span>
+                            </span>
+                        ))}
+            </div>
+
+              <div className="flex justify-between items-center">
+            <a 
+            href="https://github.com/PlayerOne007/Simple_ai_agent" className="text-blue-400 hover:text-blue-300 transition-colors"
+            >
+                {""}
+                View Project</a>
+                
+
+            </div>
+
+            </div>
+
+            <div className="p-6 rounded-xl border border-white/10 hover:translate-y-1 hover:border-blue-500/30 hover:shadow-[0_2px_8px_rgba(59, 130, 246, 0.1)] transition-all">
+                    <h3 className="text-xl font-bold mb-2">{""}
+                        {""}
+                        Case Automation (Personal Project)</h3>{""}
+                    <p className="text-gray-300 mb-4">An automation script that demonstrates the creation of a small script that performs tasks.
+                    </p>
+                    <div className="flex flex-wrap gap-2 mb-4">
+                        {["Java", "Spring Boot"].map((tech,key) => (
+                            <span>
+                                <span
+                                key={key}
+                                className="bg-blue-500/10 text-blue-500 py-1 px-3 rounded-full text-sm hover:bg-blue-500/20
+                                                   hover:shadow-[0,_2px_8px_rgba(59,130,2246,0.2)] tranistion
+                                
+                                "
+                                >
+                                    {tech}
+                                </span>
+                            </span>
+                        ))}
+            </div>
+
+              <div className="flex justify-between items-center">
+            <a 
+            href="https://github.com/PlayerOne007/Simple_ai_agent" className="text-blue-400 hover:text-blue-300 transition-colors"
+            >
+                {""}
+                View Project</a>
+                
+
+            </div>
+
+            </div>
+
+            
+            <div className="p-6 rounded-xl border border-white/10 hover:translate-y-1 hover:border-blue-500/30 hover:shadow-[0_2px_8px_rgba(59, 130, 246, 0.1)] transition-all">
+                    <h3 className="text-xl font-bold mb-2">{""}
+                        {""}
                         TFL Journey Planner (Personal Project)</h3>{""}
                     <p className="text-gray-300 mb-4">Built a Java application calculating shortest routes, using graph algorithms, OOP, and data structures.
                     </p>
