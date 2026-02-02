@@ -169,7 +169,7 @@ export const Projects = () => {
                     <p className="text-gray-300 mb-4">This project demonstrates a minimal, rule-based AI agent implemented in Python.
                     </p>
                     <div className="flex flex-wrap gap-2 mb-4">
-                        {["Java", "Spring Boot"].map((tech,key) => (
+                        {["Python", "Open AI"].map((tech,key) => (
                             <span>
                                 <span
                                 key={key}
@@ -203,7 +203,7 @@ export const Projects = () => {
                     <p className="text-gray-300 mb-4">An automation script that demonstrates the creation of a small script that performs tasks.
                     </p>
                     <div className="flex flex-wrap gap-2 mb-4">
-                        {["Java", "Spring Boot"].map((tech,key) => (
+                        {["Python"].map((tech,key) => (
                             <span>
                                 <span
                                 key={key}
