@@ -30,7 +30,10 @@ export const Contact = () => {
             alert("Message Sent!")
             .setFormData({name:"", email:"", message: ""})
         })
-        .catch(() => alert("Oops something went wrong. Please try again."))
+        .catch((error) => {
+            console.error("EmailJS Error:", error);
+            alert("Failed to send message. Please try again later.");
+        });
     };
 
     return (
