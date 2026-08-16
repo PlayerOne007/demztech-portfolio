@@ -211,6 +211,11 @@ export const About = () => {
                                 Maintained continuous hands-on development by building real-world projects and exploring AI-driven and cloud-native solutions.
                                 </p>
                             </li>
+                             <li>
+                                <p>
+                                Designed automation for operational processes and financial data integrations.
+                                </p>
+                            </li>
                         </li>
                     </div>
                     <div>
