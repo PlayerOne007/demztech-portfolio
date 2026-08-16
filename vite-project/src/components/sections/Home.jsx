@@ -14,7 +14,7 @@ export const Home = () => {
             </h1>
 
             <p className="text-gray-400 text-lg mb-8 max-w-lg mx-auto">
-                I am a DevOps Engineer with 4+ years of commericial experience, specialising in cloud platforms (AWS, GCP, Azure), CI/CD, 
+                I am a DevOps Engineer with 5 years of commericial experience, specialising in cloud platforms (AWS, GCP, Azure), CI/CD, 
                 Infrastructure as Code, automation, and scalable application delivery.
                 </p>
                 <div className="flex justify-center space-x-4">

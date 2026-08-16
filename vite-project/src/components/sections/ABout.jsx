@@ -384,6 +384,7 @@ export const About = () => {
                                         and improve system maintainability
                                     </p>
                                 </li>
+                                <div>
                                 <h4 className="font-semibold">
                             {""}
                             Additional Information</h4>{" "}
@@ -396,6 +397,7 @@ export const About = () => {
                                         <li>
                                             <p>Enjoys continuous learning and staying up-to-date with industry trends</p>
                                         </li>
+                                        </div>
 
                     </div>
                 </div>
